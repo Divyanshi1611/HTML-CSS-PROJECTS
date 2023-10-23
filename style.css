@@ -1,0 +1,30 @@
+
+        .heading{
+            text-align: center;
+            text-decoration: underline;
+        }
+        .year{
+            text-align: center;
+        }
+        .center{
+            height: 500px;
+            width:1300px;
+            padding-left: 100px;
+            padding-right: 50px;
+            padding-bottom: 20px;
+
+        }
+        p
+        {
+            font-family: 'Times New Roman', Times, serif;
+            text-align: left;
+            padding-left: 200px;
+            padding-right: 200px;
+            padding-bottom: 10px;
+
+
+
+        }
+        .headd{
+            text-align: center;
+        }
